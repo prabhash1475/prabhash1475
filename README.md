@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 
-<a  href="https://prabhash1475.github.io/"><button background-color="purple">Portfolio</button></a>
+<a  href="https://prabhash1475.github.io/"><button style="background-color: purple;">Portfolio</button></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prabhash-kumar-46ab25112/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@prabhash.kumar96) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20193012/prabhash-kumar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/prabhash_1475) 
 
 # 💻 Tech Stack:
